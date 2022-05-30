@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 1.1em;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.menu-text {
+    color: #ff0000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.hero {
+    text-align: center;
+    background: url(./../img/sea-back.jpeg) no-repeat center / cover;
+    color: white;
+    margin: 0;
+
+    /* 
+    padding-top: 100px;
+    padding-bottom: 100px; 
+    padding-left: 70px;
+    padding-right: 70px;
+    */
+    padding: 100px 70px;
+}
+
+section {
+    /* 
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px; 
+    */
+    padding: 50px;
+}
